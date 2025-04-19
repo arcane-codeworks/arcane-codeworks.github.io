@@ -9,7 +9,9 @@ Dual N‑Back Extreme is a cognitive training app designed to boost your worki
 
 For example, in a **2‑back** session you must remember the stimulus that appeared two rounds earlier.
 
-![Dual N‑Back Extreme preview](/assets/images/screenshot.png)
+<div align="center" markdown="1">
+  ![Dual N‑Back Extreme preview](/assets/images/screenshot.png)
+</div>
 
 ---
 
