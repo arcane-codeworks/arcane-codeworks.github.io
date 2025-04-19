@@ -1,1 +1,36 @@
-# Hello
+---
+layout: default
+title: "Dual N‑Back Extreme"
+---
+
+<div align="center">
+
+# Dual N‑Back Extreme
+
+Dual N‑Back Extreme is a cognitive training app designed to boost your working memory by challenging you to recall items from a set number of steps back.
+
+For example, in a **2‑back** session you must remember the stimulus that appeared two rounds earlier.
+
+![Dual N‑Back Extreme preview](./assets/images/screenshot.png)
+
+---
+
+## How It Works
+
+1. **Observe the Cues**  
+   Watch the flashing cells and listen carefully to the sounds played in each trial.
+
+2. **Remember & Compare**  
+   Keep in mind both the position and the sound from previous trials.
+
+3. **Respond Appropriately**  
+   When the current cell or sound matches the one from _N_ steps back, press the corresponding button to record your response.
+
+---
+
+By consistently updating your memory and identifying matches, you will gradually strengthen your working memory skills. Enjoy the game and track your progress as you advance!
+
+---
+
+Contact: dreamlandapps+nbe@gmail.com
+</div>
