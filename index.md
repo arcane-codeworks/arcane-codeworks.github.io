@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Dual N‑Back Extreme"
+title: "N‑Back Extreme"
 ---
 
-# Dual N‑Back Extreme
+# N‑Back Extreme
 
-Dual N‑Back Extreme is a cognitive training app designed to boost your working memory by challenging you to recall items from a set number of steps back.
+N‑Back Extreme is a cognitive training app designed to boost your working memory by challenging you to recall items from a set number of steps back.
 
 For example, in a **2‑back** session you must remember the stimulus that appeared two rounds earlier.
 
 <div align="center" markdown="1">
-  ![Dual N‑Back Extreme preview](/assets/images/screenshot.png)
+  ![N‑Back Extreme preview](/assets/images/screenshot.png)
 </div>
 
 ---
